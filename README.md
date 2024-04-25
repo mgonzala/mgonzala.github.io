@@ -9,13 +9,13 @@
   
     <body>
 <h1>
-    <span style="--start-color:#007CF0; --end-color:#00DFD8; --content: 'Develop';">
+    <span style="--start-color:#007CF0; --end-color:#00DFD8; --content: 'News';">
       Pau
     </span>
-    <span style="--start-color:#7928CA; --end-color:#FF0080; --content: '&'; --animation:a2;">
+    <span style="--start-color:#7928CA; --end-color:#FF0080; --content: 'ABAP'; --animation:a2;">
       &
     </span>
-    <span style="--start-color:#FF4D4D; animation-name:a3; --end-color:#F9CB28; --content: 'Deploy'; --animation: a3">
+    <span style="--start-color:#FF4D4D; animation-name:a3; --end-color:#F9CB28; --content: 'Contact'; --animation: a3">
       Marc
     </span>
   </h1>
