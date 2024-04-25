@@ -23,7 +23,6 @@ body {
   }
   
   span::before {
-    animation-delay: 2s;
     animation-name: var(--animation, a);
     animation-duration: 8s;
     animation-iteration-count: infinite;
