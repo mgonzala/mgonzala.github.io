@@ -2,7 +2,7 @@
 <html lang="es">
     <link rel="stylesheet" type="text/css" href="style.css">
     <head>
-		<meta charset="utf-8" />
+		<meta charset="utf-8" > </meta>
 		<title> template </title>
   
     </head>
