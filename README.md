@@ -10,7 +10,7 @@
     <body>
 <h1>
     <span style="--start-color:#007CF0; --end-color:#00DFD8; --content: 'News';">
-      NEWS
+      News
     </span>
     <span style="--start-color:#7928CA; --end-color:#FF0080; --content: 'ABAP'; --animation:a2;">
       ABAP
