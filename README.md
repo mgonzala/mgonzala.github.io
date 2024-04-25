@@ -7,7 +7,7 @@
   
     </head>
   
-    <body>
+
 <h1>
     <span style="--start-color:#007CF0; --end-color:#00DFD8; --content: 'News';">
       News
@@ -19,5 +19,5 @@
       Contact
     </span>
   </h1>
- </body>
+
 </html>
