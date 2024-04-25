@@ -1,5 +1,23 @@
 # mgonzala.github.io
-<html>
-hello world.
+<html lang="es">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <head>
+		<meta charset="utf-8" />
+		<title> template </title>
   
-</html>
+    </head>
+  
+    <body>
+<h1>
+    <span style="--start-color:#007CF0; --end-color:#00DFD8; --content: 'Pau';">
+      Pau
+    </span>
+    <span style="--start-color:#7928CA; --end-color:#FF0080; --content: '&'; --animation:a2;">
+      &
+    </span>
+    <span style="--start-color:#FF4D4D; animation-name:a3; --end-color:#F9CB28; --content: 'Marc'; --animation: a3">
+      Marc
+    </span>
+  </h1>
+
+  </body>
