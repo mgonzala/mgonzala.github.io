@@ -23,17 +23,5 @@
   </div> 
 </div>
 
-<div class="container">    
-  <div class="progress2 progress-moved">
-    <div class="progress-bar2" >
-    </div>                       
-  </div> 
-</div>
 
-<div class="container">    
-  <div class="progress progress-infinite">
-    <div class="progress-bar3" >
-    </div>                       
-  </div> 
-</div>
 </html>
