@@ -5,6 +5,7 @@
 <div class="container">    
   <div class="progress progress-striped">
     <div class="progress-bar">
+	    Loading...
     </div>                       
   </div> 
 </div>
