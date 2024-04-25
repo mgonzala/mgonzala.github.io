@@ -2,12 +2,6 @@
 <html lang="es">
     <link rel="stylesheet" type="text/css" href="style.css">
 
-		<meta charset="utf-8" />
-		<title> template </title>
-  
-
-  
-
 <h1>
     <span style="--start-color:#007CF0; --end-color:#00DFD8; --content: 'News';">
       News
