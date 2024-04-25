@@ -2,15 +2,7 @@
 <html lang="es">
     <link rel="stylesheet" type="text/css" href="style.css">
 
-<div class="container">    
-  <div class="progress progress-striped">
-    <div class="progress-bar">
-	    Loading...
-    </div>                       
-  </div> 
-</div>
-
-<h1>
+ <h1>
     <span style="--start-color:#007CF0; --end-color:#00DFD8; --content: 'Novedades';">
       Novedades
     </span>
@@ -23,5 +15,14 @@
       Contacto
     </span>
   </h1>
+
+<div class="container">    
+  <div class="progress progress-striped">
+    <div class="progress-bar">
+	    Loading...
+    </div>                       
+  </div> 
+</div>
+
 
 </html>
